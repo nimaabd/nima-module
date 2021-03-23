@@ -1,0 +1,96 @@
+
+.module-1{
+    position: center;
+    height: 170px;
+    background-color: dimgrey ;
+    color: white;
+    border: solid 1px black;
+    padding: 10px 10px ;
+    margin:  10px 10px ;
+}
+.module-2{
+    position: center;
+    height: 170px;
+    background-color: dimgrey;
+    color: white;
+    border: solid 1px black;
+    padding: 10px 10px ;
+    margin:  10px 10px ;
+}
+.module-3{
+    position: center;
+    height: 170px;
+    background-color: dimgrey ;
+    color: white;
+    border: solid 1px black;
+    padding: 10px 10px ;
+    margin:  10px 10px ;
+}
+.module-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.module-title1{
+    background-color: hotpink;
+    color: white;
+    float: right;
+    margin: -10px -10px 0 0 ;
+    padding: 10px 10px 10px 10px ;
+    border: solid 1px black;
+}
+.module-title2{
+    background-color: darkred;
+    color: white;
+    float: right;
+    margin: -10px -10px 0 0 ;
+    padding: 10px 10px 10px 10px ;
+    border: solid 1px black;
+}
+.module-title3{
+    background-color: yellow;
+    color: white;
+    float: right;
+    margin: -10px -10px 0 0 ;
+    padding: 10px 10px 10px 10px ;
+    border: solid 1px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
